@@ -1,0 +1,6 @@
+node_modules/
+build/
+*.log
+
+# Esempi di env: tenuti fuori dal versionamento per scelta.
+.env.example
